@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 My programming protfolio is available at [uxlabspk.github.io](uxlabspk.github.io)
+- 👨‍💻 My programming protfolio is available at [uxlabspk.github.io](https://uxlabspk.github.io/)
 
 - 📫 How to reach me **muhammadnaveedcis@gmail.com**
 
