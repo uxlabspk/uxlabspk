@@ -16,5 +16,3 @@
 
 
 <a href="https://leetcode.com/prog_naveed/"><img width="48%" src="https://leetcode.card.workers.dev/prog_naveed?theme=light&font=baloo&extension=null&border=2&border_radius=8" /></a>
-
-<p>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uxlabspk" alt="hmzi67" /></p>
