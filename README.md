@@ -13,6 +13,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=uxlabspk" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxlabspk&count_private=true&langs_count=20&layout=compact&theme=light" alt="uxlabspk" />
-
-
-<a href="https://leetcode.com/prog_naveed/"><img width="48%" src="https://leetcode.card.workers.dev/prog_naveed?theme=light&font=baloo&extension=null&border=2&border_radius=8" /></a>
