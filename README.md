@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uxlabspk" alt="uxlabspk" /></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=uxlabspk" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=uxlabspk" /> -->
+
+<img src="https://streak-stats.demolab.com/?user=uxlabspk&theme=light" alt="uxlabspk" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxlabspk&count_private=true&langs_count=20&layout=compact&theme=light" alt="uxlabspk" />
